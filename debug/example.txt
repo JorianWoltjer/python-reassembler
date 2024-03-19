@@ -1,0 +1,7 @@
+  5           0 LOAD_GLOBAL              0 (print)
+              2 LOAD_CONST               1 ('Hello,')
+              4 LOAD_CONST               2 ('world!')
+              6 CALL_FUNCTION            2
+              8 POP_TOP
+             10 LOAD_CONST               0 (None)
+             12 RETURN_VALUE
