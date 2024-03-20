@@ -1,6 +1,9 @@
-# Python re-assembler
+Python re-assembler
+============================
 
-**Re-assemble Python disassembly text to bytecode**
+###### Re-assemble Python disassembly text to bytecode
+
+ ---
 
 This project serves a pretty unique use case, where you **have** output of the [`dis.dis()`](https://docs.python.org/3/library/dis.html#dis.dis) module in the form of disassembled bytecode:
 
